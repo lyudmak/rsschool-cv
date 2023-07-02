@@ -10,8 +10,9 @@
 
 + ## Skills:
 - HTML
-- CSS
 - JS
+- CSS
+  
 
 + ## Code example
 
@@ -23,3 +24,4 @@ function mergeArrays(arr1, arr2) {
 + ## Language
 - Russian - Native
 - English - A1
+  

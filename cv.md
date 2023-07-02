@@ -10,8 +10,9 @@
 
 + ## Skills:
 - HTML
-- JS
 - CSS
+- JS
+  
   
 
 + ## Code example
